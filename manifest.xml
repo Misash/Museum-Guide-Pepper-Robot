@@ -4,10 +4,12 @@
   <name lang="en_US">Untitled</name>
  </names>
  <supportedLanguages>
+  <language>es_ES</language>
   <language>en_US</language>
  </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
+  <language>es_ES</language>
  </descriptionLanguages>
  <contents>
   <behaviorContent path="behavior_1">
@@ -15,5 +17,6 @@
    <nature>solitary</nature>
    <permissions/>
   </behaviorContent>
+  <dialogContent typeVersion="1.0" topicName="TestBox"/>
  </contents>
 </package>
