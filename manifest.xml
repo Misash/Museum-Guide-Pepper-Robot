@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="rutas2-374f20">
+<package uuid="rutas2-374f20" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -17,6 +17,8 @@
    <nature>solitary</nature>
    <permissions/>
   </behaviorContent>
-  <dialogContent typeVersion="1.0" topicName="TestBox"/>
+  <dialogContent typeVersion="1.0" topicName="TestBox">
+   <topic language="es_ES" path="TestBox/TestBox_spe.top"/>
+  </dialogContent>
  </contents>
 </package>
