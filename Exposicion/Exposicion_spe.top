@@ -10,8 +10,7 @@ language: spe
 # Replying to speech
 #u:(~hello) ~hello
 
-concept:(inicio)["Te puedo brindar informacion sobre los tipos de exposicion"]
+concept:(inicio)["Hablemos sobre las exposiciones"]
 #concept:()
 
-~inicio
-#u:(~inicio) 
+u:(~inicio) En este museo tenemos exposiciones sobre
