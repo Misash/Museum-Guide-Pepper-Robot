@@ -12,5 +12,5 @@ language: spe
 
 
 
-u:(Quien es el fundador del museo) El nombre del Fundador es Guillermo Zegarra Meneses $onStopped=1 
+u:(Quien es el fundador {del museo}) El nombre del Fundador es Guillermo Zegarra Meneses $onStopped=1 
 u:(adios) adios adios $onStopped=1

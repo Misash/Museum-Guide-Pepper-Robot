@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="rutas2-374f20" version="0.0.0">
+<package version="0.0.0" uuid="rutas2-374f20">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -17,10 +17,10 @@
    <nature>solitary</nature>
    <permissions/>
   </behaviorContent>
-  <dialogContent typeVersion="1.0" topicName="TestBox">
+  <dialogContent topicName="TestBox" typeVersion="1.0">
    <topic language="es_ES" path="TestBox/TestBox_spe.top"/>
   </dialogContent>
-  <dialogContent typeVersion="1.0" topicName="Exposicion">
+  <dialogContent topicName="Exposicion" typeVersion="1.0">
    <topic language="es_ES" path="Exposicion/Exposicion_spe.top"/>
   </dialogContent>
  </contents>
