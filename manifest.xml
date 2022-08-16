@@ -17,10 +17,10 @@
    <nature>solitary</nature>
    <permissions/>
   </behaviorContent>
-  <dialogContent topicName="TestBox" typeVersion="1.0">
+  <dialogContent typeVersion="1.0" topicName="TestBox">
    <topic language="es_ES" path="TestBox/TestBox_spe.top"/>
   </dialogContent>
-  <dialogContent topicName="Exposicion" typeVersion="1.0">
+  <dialogContent typeVersion="1.0" topicName="Exposicion">
    <topic language="es_ES" path="Exposicion/Exposicion_spe.top"/>
   </dialogContent>
  </contents>

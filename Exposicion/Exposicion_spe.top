@@ -11,6 +11,10 @@ language: spe
 #u:(~hello) ~hello
 
 concept:(inicio)["Hablemos sobre las exposiciones"]
+concept:(museo)["que otros detalles debo saber [del museo]"]
+concept:(horario)["cual es el horario de atencion [del museo]"]
 #concept:()
 
 u:(~inicio) En este museo tenemos exposiciones sobre
+u:(~museo) Algunos detalles del museo son 
+u:(~horario) El horario de atencion es de 9
