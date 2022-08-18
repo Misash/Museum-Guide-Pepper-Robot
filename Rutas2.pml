@@ -7,11 +7,13 @@
     <Dialogs>
         <Dialog name="TestBox" src="TestBox/TestBox.dlg" />
         <Dialog name="Exposicion" src="Exposicion/Exposicion.dlg" />
+        <Dialog name="ExampleDialog" src="behavior_1/ExampleDialog/ExampleDialog.dlg" />
     </Dialogs>
     <Resources />
     <Topics>
         <Topic name="TestBox_spe" src="TestBox/TestBox_spe.top" topicName="TestBox" language="es_ES" />
         <Topic name="Exposicion_spe" src="Exposicion/Exposicion_spe.top" topicName="Exposicion" language="es_ES" />
+        <Topic name="ExampleDialog_spe" src="behavior_1/ExampleDialog/ExampleDialog_spe.top" topicName="ExampleDialog" language="es_ES" />
     </Topics>
     <IgnoredPaths />
     <Translations auto-fill="es_ES">

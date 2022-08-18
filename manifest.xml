@@ -18,10 +18,10 @@
    <permissions/>
   </behaviorContent>
   <dialogContent typeVersion="1.0" topicName="TestBox">
-   <topic language="es_ES" path="TestBox/TestBox_spe.top"/>
+   <topic path="TestBox/TestBox_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent typeVersion="1.0" topicName="Exposicion">
-   <topic language="es_ES" path="Exposicion/Exposicion_spe.top"/>
+   <topic path="Exposicion/Exposicion_spe.top" language="es_ES"/>
   </dialogContent>
  </contents>
 </package>

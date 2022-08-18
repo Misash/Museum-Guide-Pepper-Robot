@@ -10,11 +10,22 @@ language: spe
 # Replying to speech
 #u:(~hello) ~hello
 
-concept:(inicio)["Hablemos sobre las exposiciones"]
-concept:(museo)["que otros detalles debo saber [del museo]"]
+concept:(expos)["{ sobre las} exposiciones"]
+concept:(museo)["{que otros detalles debo saber}  museo"]
 concept:(horario)["cual es el horario de atencion [del museo]"]
+
+concept:(ans_expos)["En este museo tenemos exposiciones sobre"]
+concept:(ans_museo)["Algunos detalles del museo son"]
+concept:(ans_horario)["El horario de atencion es de 9"]
+
+
+#u:(detalles) Bienvenido al museo monasterio de la recoleta ,  soy peper te puedo dar  detalles sobre las esposiciones , museo y el horario de atencion , mencione una opcion
+#    u1:(exposiciones) ~ans_expos
+#    u2:(museo) ~ans_museo
+#    u3:(horario) ~ans_horario
+
 #concept:()
 
-u:(~inicio) En este museo tenemos exposiciones sobre
-u:(~museo) Algunos detalles del museo son 
-u:(~horario) El horario de atencion es de 9
+u:(~expos) ~ans_expos $o1=1
+u:(~museo) ~ans_museo 
+u:(~horario) ~ans_horario
