@@ -8,6 +8,7 @@
         <Dialog name="TestBox" src="TestBox/TestBox.dlg" />
         <Dialog name="Exposicion" src="Exposicion/Exposicion.dlg" />
         <Dialog name="Expo_types" src="Expo_types/Expo_types.dlg" />
+        <Dialog name="Sillar_Info" src="Sillar_Info/Sillar_Info.dlg" />
     </Dialogs>
     <Resources />
     <Topics>
@@ -15,6 +16,7 @@
         <Topic name="Exposicion_spe" src="Exposicion/Exposicion_spe.top" topicName="Exposicion" language="es_ES" />
         <Topic name="ExampleDialog_spe" src="behavior_1/ExampleDialog/ExampleDialog_spe.top" topicName="ExampleDialog" language="es_ES" />
         <Topic name="Expo_types_spe" src="Expo_types/Expo_types_spe.top" topicName="Expo_types" language="es_ES" />
+        <Topic name="Sillar_Info_spe" src="Sillar_Info/Sillar_Info_spe.top" topicName="Sillar_Info" language="es_ES" />
     </Topics>
     <IgnoredPaths />
     <Translations auto-fill="es_ES">

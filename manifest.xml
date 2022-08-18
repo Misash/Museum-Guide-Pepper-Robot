@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="rutas2-374f20">
+<package uuid="rutas2-374f20" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -25,6 +25,9 @@
   </dialogContent>
   <dialogContent typeVersion="1.0" topicName="Expo_types">
    <topic language="es_ES" path="Expo_types/Expo_types_spe.top"/>
+  </dialogContent>
+  <dialogContent typeVersion="1.0" topicName="Sillar_Info">
+   <topic language="es_ES" path="Sillar_Info/Sillar_Info_spe.top"/>
   </dialogContent>
  </contents>
 </package>
