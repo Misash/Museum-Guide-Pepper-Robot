@@ -10,7 +10,9 @@
         <Dialog name="Expo_types" src="Expo_types/Expo_types.dlg" />
         <Dialog name="Sillar_Info" src="Sillar_Info/Sillar_Info.dlg" />
     </Dialogs>
-    <Resources />
+    <Resources>
+        <File name="qr_recoleta" src="qr_recoleta.png" />
+    </Resources>
     <Topics>
         <Topic name="TestBox_spe" src="TestBox/TestBox_spe.top" topicName="TestBox" language="es_ES" />
         <Topic name="Exposicion_spe" src="Exposicion/Exposicion_spe.top" topicName="Exposicion" language="es_ES" />
