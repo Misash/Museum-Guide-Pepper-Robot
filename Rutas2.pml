@@ -9,6 +9,8 @@
         <Dialog name="Exposicion" src="Exposicion/Exposicion.dlg" />
         <Dialog name="Expo_types" src="Expo_types/Expo_types.dlg" />
         <Dialog name="Sillar_Info" src="Sillar_Info/Sillar_Info.dlg" />
+        <Dialog name="schedule" src="schedule/schedule.dlg" />
+        <Dialog name="location" src="location/location.dlg" />
     </Dialogs>
     <Resources>
         <File name="qr_recoleta" src="qr_recoleta.png" />
@@ -19,6 +21,8 @@
         <Topic name="ExampleDialog_spe" src="behavior_1/ExampleDialog/ExampleDialog_spe.top" topicName="ExampleDialog" language="es_ES" />
         <Topic name="Expo_types_spe" src="Expo_types/Expo_types_spe.top" topicName="Expo_types" language="es_ES" />
         <Topic name="Sillar_Info_spe" src="Sillar_Info/Sillar_Info_spe.top" topicName="Sillar_Info" language="es_ES" />
+        <Topic name="schedule_spe" src="schedule/schedule_spe.top" topicName="schedule" language="es_ES" />
+        <Topic name="location_spe" src="location/location_spe.top" topicName="location" language="es_ES" />
     </Topics>
     <IgnoredPaths />
     <Translations auto-fill="es_ES">

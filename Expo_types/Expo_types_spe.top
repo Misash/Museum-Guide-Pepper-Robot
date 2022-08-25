@@ -3,5 +3,5 @@ language: spe
 
 
 
-u:(que tipo de arte) $ans_art=1
-u:(que tipo de piezas historicas ) $ans_historical=1 
+u:({que tipo de} arte) $ans_art=1
+u:({que tipo de} piezas historicas ) $ans_historical=1 

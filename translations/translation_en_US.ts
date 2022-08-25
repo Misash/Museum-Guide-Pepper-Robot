@@ -8,11 +8,5 @@
             <comment>Text</comment>
             <translation type="vanished">Hello</translation>
         </message>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Guillermo Zegarra Meneses fue un destacado abogado en la ciudad de Arequipa </source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
     </context>
 </TS>

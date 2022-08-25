@@ -1,0 +1,7 @@
+topic: ~location()
+language: spe
+
+
+u:(distrito) $distrite_ans=1
+
+u:(direccion) $address_ans=1

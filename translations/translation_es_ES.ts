@@ -19,10 +19,9 @@
             <translation type="obsolete">Guillermo Zegarra Meneses fue un destacado abogado en la cidad de Arequipa </translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Guillermo Zegarra Meneses fue un destacado abogado en la ciudad de Arequipa </source>
             <comment>Text</comment>
-            <translation type="unfinished">Guillermo Zegarra Meneses fue un destacado abogado en la ciudad de Arequipa </translation>
+            <translation type="obsolete">Guillermo Zegarra Meneses fue un destacado abogado en la ciudad de Arequipa </translation>
         </message>
     </context>
     <context>
