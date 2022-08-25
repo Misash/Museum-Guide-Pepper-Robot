@@ -15,25 +15,28 @@
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>solitary</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <dialogContent topicName="TestBox" typeVersion="1.0">
-   <topic language="es_ES" path="TestBox/TestBox_spe.top"/>
+   <topic path="TestBox/TestBox_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent topicName="Exposicion" typeVersion="1.0">
-   <topic language="es_ES" path="Exposicion/Exposicion_spe.top"/>
+   <topic path="Exposicion/Exposicion_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent topicName="Expo_types" typeVersion="1.0">
-   <topic language="es_ES" path="Expo_types/Expo_types_spe.top"/>
+   <topic path="Expo_types/Expo_types_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent topicName="Sillar_Info" typeVersion="1.0">
-   <topic language="es_ES" path="Sillar_Info/Sillar_Info_spe.top"/>
+   <topic path="Sillar_Info/Sillar_Info_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent topicName="schedule" typeVersion="1.0">
-   <topic language="es_ES" path="schedule/schedule_spe.top"/>
+   <topic path="schedule/schedule_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent topicName="location" typeVersion="1.0">
-   <topic language="es_ES" path="location/location_spe.top"/>
+   <topic path="location/location_spe.top" language="es_ES"/>
   </dialogContent>
  </contents>
 </package>
