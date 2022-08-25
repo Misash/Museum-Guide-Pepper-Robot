@@ -13,7 +13,7 @@
         <Dialog name="location" src="location/location.dlg" />
     </Dialogs>
     <Resources>
-        <File name="qr_recoleta" src="qr_recoleta.png" />
+        <File name="qr_recoleta" src="html/qr_recoleta.png" />
     </Resources>
     <Topics>
         <Topic name="TestBox_spe" src="TestBox/TestBox_spe.top" topicName="TestBox" language="es_ES" />
