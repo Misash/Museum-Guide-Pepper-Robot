@@ -6,4 +6,4 @@ language: spe
 
 concept:(holiday)["{puedo visitar el museo en dias} feriados "]
 
-u:(~holiday) $yes
+u:(~holiday) $yes=1
