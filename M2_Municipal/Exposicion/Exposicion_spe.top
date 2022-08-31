@@ -1,0 +1,28 @@
+topic: ~Exposicion()
+language: spe
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
+
+concept:(founder)["{quien es el} fundador {del museo}"]
+concept:(exposition)["{ Hablame sobre las} exposiciones "]
+concept:(archi)["{hablemos sobre la} arquitectura {del edificio}"]
+concept:(location)["{hablemos sobre la} ubicacion {del museo}"]
+concept:(info)["{donde puedo encontrart mas} informacion {del museo}"]
+concept:(details)["{que otros} detalles {debo saber del museo}"]
+concept:(schedule)["{cual es el }horario de atencion {del museo}"]
+
+
+u:(~founder) $ans_founder=1 
+u:(~exposition) $ans_exposition=1
+u:(~archi) $ans_archi=1
+u:(~location) $ans_location=1
+u:(~info) $ans_info=1
+u:(~details) $ans_details=1
+u:(~schedule) $ans_schedule=1
