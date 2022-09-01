@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="rutas2-374f20" version="0.0.0">
+<package version="0.0.0" uuid="rutas2-374f20">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -18,22 +18,22 @@
    <permissions/>
   </behaviorContent>
   <dialogContent typeVersion="1.0" topicName="TestBox">
-   <topic language="es_ES" path="TestBox/TestBox_spe.top"/>
+   <topic path="TestBox/TestBox_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent typeVersion="1.0" topicName="Exposicion">
-   <topic language="es_ES" path="Exposicion/Exposicion_spe.top"/>
+   <topic path="Exposicion/Exposicion_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent typeVersion="1.0" topicName="Expo_types">
-   <topic language="es_ES" path="Expo_types/Expo_types_spe.top"/>
+   <topic path="Expo_types/Expo_types_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent typeVersion="1.0" topicName="Sillar_Info">
-   <topic language="es_ES" path="Sillar_Info/Sillar_Info_spe.top"/>
+   <topic path="Sillar_Info/Sillar_Info_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent typeVersion="1.0" topicName="schedule">
-   <topic language="es_ES" path="schedule/schedule_spe.top"/>
+   <topic path="schedule/schedule_spe.top" language="es_ES"/>
   </dialogContent>
   <dialogContent typeVersion="1.0" topicName="location">
-   <topic language="es_ES" path="location/location_spe.top"/>
+   <topic path="location/location_spe.top" language="es_ES"/>
   </dialogContent>
  </contents>
 </package>
